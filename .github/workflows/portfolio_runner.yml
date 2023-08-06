@@ -15,7 +15,6 @@
         - name: Build
           run:  | 
               export CI=false
-              npm run build
               npm install
     
         - name: Deploy
