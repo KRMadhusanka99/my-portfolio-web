@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-web",
   "version": "1.0.0",
-  "homepage": "https://KRMadhusanka99.github.io/my-portfolio-web/",
+  "homepage": "https://krmadhusanka99.github.io/my-portfolio-web/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
