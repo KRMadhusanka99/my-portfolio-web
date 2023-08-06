@@ -16,7 +16,8 @@
           run: npm install
     
         - name: Deploy
-          run:  git config --global user.name 'KRMadhusanka99'
-          run:  git config --global user.email 'kkrmadhu1999@gmail.com'
-          run:  git remote set-url origin https://x-access-token:${{ secrets.PORTFOLIO_TOKEN }}@github.com/${{ github.repository }}    
-          run:  npm run deploy
+          run:  |
+              git config --global user.name 'KRMadhusanka99'
+              git config --global user.email 'kkrmadhu1999@gmail.com'
+              git remote set-url origin https://x-access-token:${{ secrets.PORTFOLIO_TOKEN }}@github.com/${{ github.repository }} ;  
+              npm run deploy
