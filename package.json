@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio-web",
-  "version": "0.1.0",
-  "homepage": "https://KRMadhusanka99.github.io/my-portfolio-app",
+  "version": "1.0.0",
+  "homepage": "https://KRMadhusanka99.github.io/my-portfolio-web/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -12,13 +12,18 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "7.21.0",
+    "gh-pages": "^5.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build --no-warnings-as-error",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"master -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
