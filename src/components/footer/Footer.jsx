@@ -18,13 +18,13 @@ const Footer = () => {
                 </li>
             </ul>
             <div className="footer__social">
-                <a href="https://linkedin.com/" className="footer__social-link" target="_blank" rel="noreferrer">
+                <a href="https://linkedin.com/in/ramesh-madhusanka/" className="footer__social-link" target="_blank" rel="noreferrer">
                     <i class="bx bxl-linkedin"></i>
                 </a>
-                <a href="https://www.instagram.com/" className="footer__social-link" rel="noreferrer" target="_blank">
+                <a href="https://www.instagram.com/ramesh_madhusanka_/" className="footer__social-link" rel="noreferrer" target="_blank">
                     <i class="bx bxl-instagram"></i>
                 </a>
-                <a href="https://www.facebook.com/" className="footer__social-link"  rel="noreferrer" target="_blank">
+                <a href="https://www.facebook.com/ramesh.nrulz" className="footer__social-link"  rel="noreferrer" target="_blank">
                     <i class="bx bxl-facebook"></i>
                 </a>
             </div>
