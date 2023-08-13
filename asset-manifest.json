@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/my-portfolio-web/static/css/main.4a6e094e.css",
-    "main.js": "/my-portfolio-web/static/js/main.bd6f3bbb.js",
+    "main.js": "/my-portfolio-web/static/js/main.c6ed2d7b.js",
+    "static/media/work5.png": "/my-portfolio-web/static/media/work5.446419809af522ea4574.png",
     "static/media/home1.jpeg": "/my-portfolio-web/static/media/home1.cfa091e2ca4e497bd287.jpeg",
     "static/media/work1.png": "/my-portfolio-web/static/media/work1.abbae599a14b54cc764c.png",
     "static/media/work4.png": "/my-portfolio-web/static/media/work4.c4bf8ef66d835b523f4a.png",
-    "static/media/work5.png": "/my-portfolio-web/static/media/work5.7e5297a43d8aba06a31b.png",
     "static/media/about.jpg": "/my-portfolio-web/static/media/about.f03612b2849febe4cb4a.jpg",
     "static/media/Ramesh_Madhusanka.pdf": "/my-portfolio-web/static/media/Ramesh_Madhusanka.11aad2edacecafee66ba.pdf",
     "static/media/work2.png": "/my-portfolio-web/static/media/work2.736e3ed2c81f0ae3efcf.png",
     "static/media/work3.png": "/my-portfolio-web/static/media/work3.b06314fe57673781c7ff.png",
     "index.html": "/my-portfolio-web/index.html",
     "main.4a6e094e.css.map": "/my-portfolio-web/static/css/main.4a6e094e.css.map",
-    "main.bd6f3bbb.js.map": "/my-portfolio-web/static/js/main.bd6f3bbb.js.map"
+    "main.c6ed2d7b.js.map": "/my-portfolio-web/static/js/main.c6ed2d7b.js.map"
   },
   "entrypoints": [
     "static/css/main.4a6e094e.css",
-    "static/js/main.bd6f3bbb.js"
+    "static/js/main.c6ed2d7b.js"
   ]
 }
