@@ -35,7 +35,7 @@ const Contact = () => {
                         <i className="bx bx-mail-send contact__card-icon"></i>
                         <h3 className="contact__card-title">Email</h3>
                         <span className="contact__card-data">kkrmadhu1999@gmail.com</span>
-                        <a href="mailto:examplemail@gmail.com.com" className="contact__button">Write me{""} 
+                        <a href="mailto:kkrmadhu1999@gmail.com.com" className="contact__button">Write me{""} 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
                     </div>
@@ -43,7 +43,7 @@ const Contact = () => {
                         <i className="bx bxl-whatsapp contact__card-icon"></i>
                         <h3 className="contact__card-title">Whatsapp</h3>
                         <span className="contact__card-data">+9472 055 2665</span>
-                        <a href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!" className="contact__button">Write me{""} 
+                        <a href="https://api.whatsapp.com/send?phone=94720552665&text=Hello, more information!" className="contact__button">Write me{""} 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
                     </div>
@@ -51,7 +51,7 @@ const Contact = () => {
                         <i className="bx bx-phone contact__card-icon"></i>
                         <h3 className="contact__card-title">Mobile</h3>
                         <span className="contact__card-data">+9476 757 2665</span>
-                        <a href="https://www.dialog.lk/contact-support" className="contact__button">Write me 
+                        <a href="tel:+94767572665" className="contact__button">Write me 
                         <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                         </a>
                     </div>
