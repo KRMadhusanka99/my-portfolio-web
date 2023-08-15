@@ -2,6 +2,7 @@ import Image1 from "../../assets/blog1.png"
 import Image2 from "../../assets/blog2.png"
 import Image3 from "../../assets/blog3.png"
 import Image4 from "../../assets/blog4.png"
+import Image5 from "../../assets/blog5.png"
 
 export const Data = [
         {
@@ -35,5 +36,13 @@ export const Data = [
             description:
               "This blog series explains how to create your own x86 operating system. As this is a complex task, we can break it into numerous sessions.",
             link: "https://kkrmadhu1999.medium.com/how-to-develop-your-own-os-daabf9d632f",
+          },
+          {
+            id: 5,
+            image: Image5,
+            title: "Data Science vs Data Analytics",
+            description:
+              "How do organizations use data science and data analytics to inform decisions and increase efficiency and profitability?",
+            link: "https://kkrmadhu1999.medium.com/data-science-vs-data-analytics-84e945c517f6",
           },
       ];
